@@ -5,4 +5,5 @@ void main(){
     cout<<"\n nhap a va b:";
     cin>> a>>b;
     cout<<a+b;
+    cout<<a/b;
 }
